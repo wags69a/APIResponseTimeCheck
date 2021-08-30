@@ -12,6 +12,7 @@ All sandboxes with APIs can use this script.
 
 #Known issues
 The tokens are all differnt, you must figure it out to use this script.
+In the python script, lines 23(url), 27(API Key) and 28(Access Token) is supplied by the customer or the lab that you are using.
 
 #Getting help
 Contact the owner if he is not too busy.
@@ -33,3 +34,15 @@ Run the script on 1 API to verify all paths are correct.
 5) Edit the script to open and then print out a text file with your findings.
 6) Run the script.
 7) The script will pop open a notepad text file when completed.
+
+#Example Output
+This API Ended at: 2021-08-30 09:37:47.548763
+
+
+No information is found for this Employee ID:  XXXXX
+200
+We are looking at the time below, it will be flagged if over 5 seconds
+
+7.354588
+
+THIS IS NOT IN SPECS
