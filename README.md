@@ -26,7 +26,7 @@ Creat the .text file local to the python script.
 Run the script on 1 API to verify all paths are correct.
 
 #Step by Step
-1) Download python script into whatever you use to run this kind of script.
+1) Download python script based on the operating system you use to run the script.
 2) PIP install the requirements.
 3) Edit the file with your URL, key and token.
 4) Create a text file in the same directory as your python script.
