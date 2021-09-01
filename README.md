@@ -46,3 +46,5 @@ We are looking at the time below, it will be flagged if over 5 seconds
 7.354588
 
 THIS IS NOT IN SPECS
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/wags69a/APIResponseTimeCheck)
